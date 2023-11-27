@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">NaverClone</string>
+    <string name="naver_id"><b>아이디</b></string>
+    <string name="naver_id_mail">\@naver.com</string>
+    <string name="naver_password"><b>비밀번호</b></string>
+    <string name="naver_password_check"><b>비밀번호 재확인</b></string>
+    <string name="name"><b>이름</b></string>
+    <string name="birthday"><b>생년월일</b></string>
+    <string name="gender"><b>성별</b></string>
+    <string name="email"><b>본인 확인 이메일</b></string>
+    <string name="phone"><b>휴대전화</b></string>
+    <string name="access_number"><b>인증번호 받기</b></string>
+    <string name="register"><b>가입하기</b></string>
+    <string name="alert">경고창</string>
+    <string name="birthday_not_null">태어난 년도 4자리를 정확하게 입력하세요.</string>
+    <string name="required_info">필수 정보입니다.</string>
+    <string name="blank"></string>
+    <string name="bar">|</string>
+</resources>

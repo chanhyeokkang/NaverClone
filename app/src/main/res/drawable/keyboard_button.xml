@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:drawable="@drawable/ic_keyboard_btn"
+        android:gravity="center|end"
+        android:right ="8dp"
+        android:width="12dp"
+        android:height="8dp"/>
+
+
+</layer-list>
